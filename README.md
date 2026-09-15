@@ -13,7 +13,6 @@ The original backup contained local datasets, Colab outputs, and large zip files
 
 [📄 View full poster](assets/2022_Machine_Learning_I_Poster.png)
 
-[![Traffic Sign Object Detection Poster](assets/2022_Machine_Learning_I_Poster.png)](assets/2022_Machine_Learning_I_Poster.png)
 
 ## Project Structure
 
