@@ -9,6 +9,12 @@ This repository organizes two experiment notebooks:
 
 The original backup contained local datasets, Colab outputs, and large zip files. This cleaned version keeps the code and documentation suitable for GitHub, while excluding datasets, model weights, and generated training outputs.
 
+## Poster
+
+[📄 View full poster](assets/2022_Machine_Learning_I_Poster.png)
+
+[![Traffic Sign Object Detection Poster](assets/2022_Machine_Learning_I_Poster.png)](assets/2022_Machine_Learning_I_Poster.png)
+
 ## Project Structure
 
 ```text
@@ -45,8 +51,3 @@ Uses `torchvision.models.detection.fasterrcnn_resnet50_fpn` and replaces the cla
 
 Clones Ultralytics YOLOv5 in Colab, prepares a YOLO-format dataset, trains a custom detector, evaluates mAP, and runs inference.
 
-## Notes
-
-- Notebook outputs were cleared for readability.
-- Local Google Drive paths were replaced with relative dataset paths where possible.
-- Large files such as datasets, `.pt` weights, and training runs are ignored by Git.
