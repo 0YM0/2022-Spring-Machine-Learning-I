@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics[detection]
+opencv-python
+numpy
+pandas
+matplotlib
+tqdm
+tensorboardX

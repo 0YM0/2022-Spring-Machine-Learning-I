@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datasets and archives
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Model artifacts
+*.pt
+*.pth
+*.onnx
+runs/
+weights/
+
+# Local environment
+.env
+.venv/
+venv/
